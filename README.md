@@ -1,14 +1,10 @@
-Here’s a structured **GitHub README** for your **Manage Landing Page (Tailwind CSS Version)** project. You can modify it based on additional features or details you'd like to highlight.
-
----
-
 # Manage Landing Page (Tailwind CSS Version)
 
 This repository contains the **Manage Landing Page**, a **Tailwind CSS-based project** designed to showcase a modern, responsive landing page using the **utility-first approach**. The project focuses on clean UI, flexible styling, and optimized performance, demonstrating the power of Tailwind CSS for rapid front-end development.
 
 ## Demo
 
-Check out the live website here: (https://manage-landing-tailwindcss.netlify.app)
+Check out the live website here: [Manage Landing Page](https://manage-landing-tailwindcss.netlify.app)
 
 ## Table of Contents
 
